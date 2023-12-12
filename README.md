@@ -5,4 +5,4 @@ You can check the ERD [**HERE**](https://www.youtube.com/watch?v=3emFLMcLmG8&pp=
 
 Created a Flower Shop database to showcase at "Database I" class in IFPE- Recife. The currently database consists of 5 tables, 3 joins and a overall 'experience' of selling and merchandising flowers.
 
-[url=https://freeimage.host/i/JuKkm2n][img]https://iili.io/JuKkm2n.md.png[/img][/url]
+ <img src="https://iili.io/JuKkm2n.md.png" display=flex width=100% />
